@@ -1,4 +1,4 @@
--👋 Hi, I’m @The-Realest-Subodh
+-👋 Hi, I’m Subodh Joshi
 - 👀 I’m interested in ...Learning new skills specifically in Cybersecurity field.
 - 🌱 I’m currently learning ...Python,C,C++
 - 💞️ I’m looking to collaborate on ...Cybersecurity based topics with Professionals as well as learners like me to gain more and more.
